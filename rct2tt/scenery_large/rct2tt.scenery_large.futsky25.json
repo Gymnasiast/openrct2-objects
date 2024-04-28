@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.futsky25",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB22|FUTSKY25|E99B8A4E",
     "sourceGame": "rct2tt",
@@ -37,11 +39,13 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/FUTSKY25.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/FUTSKY25.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sandstone Skyscraper Bottom Inverted Corner",
-            "fr-FR": "Virage inversé bas du gratte-ciel",
+            "fr-FR": "Coin inversé bas du gratte-ciel",
             "de-DE": "Sandstein-Wolkenkratzer Untere Umgedrehte Ecke",
             "es-ES": "Esquina inferior inversa de rascacielos de arenisca",
             "it-IT": "Curva invertita inferiore del grattacielo in arenaria",

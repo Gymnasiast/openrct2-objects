@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.hovercar",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA20|HOVERCAR|10724616",
     "sourceGame": "rct2tt",
@@ -18,13 +20,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "bright_red", "black"]
+                [
+                    "bright_red",
+                    "bright_red",
+                    "yellow"
+                ]
             ],
             [
-                ["light_blue", "saturated_brown", "black"]
+                [
+                    "light_blue",
+                    "saturated_brown",
+                    "yellow"
+                ]
             ],
             [
-                ["yellow", "black", "black"]
+                [
+                    "yellow",
+                    "black",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -44,7 +58,9 @@
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [4]
+                "loadingPositions": [
+                    4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -54,7 +70,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
@@ -87,7 +103,8 @@
             "eo-ZZ": "Flugpendantaj Aŭtoj",
             "ca-ES": "Cotxes planadors",
             "fi-FI": "Liitoautot",
-            "zh-CN": "浮空车"
+            "zh-CN": "浮空车",
+            "hu-HU": "Lebegő autók"
         },
         "description": {
             "en-GB": "Maglev technology has been implemented to create the illusion of futuristic hover cars",
@@ -105,9 +122,10 @@
             "pl-PL": "Technologia kolei magnetycznej umożliwiła stworzenie złudzenia futurystycznych latających samochodów",
             "ru-RU": "С помощью мощных магнитов создаётся иллюзия парящих машин",
             "eo-ZZ": "Teknologio de magneta levitacio estis realigita por krei la iluzion de estontecaj flugpendantaj aŭtoj",
-            "ca-ES": "En aquesta atracció, s’usa la tecnologia de levitació magnètica per crear la il·lusió de viatjar en cotxes planadors futurístics.",
+            "ca-ES": "En aquesta atracció, s’usa la tecnologia de levitació magnètica per a crear la il·lusió de viatjar en cotxes planadors futurístics.",
             "fi-FI": "Maglev-tekniikalla toteutetut futurististen liitoautojen illuusion kehittävät ajoneuvot",
-            "zh-CN": "磁悬浮技术已经可以用来创造未来悬停汽车的幻觉"
+            "zh-CN": "磁悬浮技术已经可以用来创造未来悬停汽车的幻觉",
+            "hu-HU": "Maglev technológiát alkalmaztak, hogy futurisztikus lebegő autók illúzióját keltsék"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -127,7 +145,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por aŭto",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per auto",
-            "zh-CN": "2位乘客/车"
+            "zh-CN": "2位乘客/车",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.futsky30",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB22|FUTSKY30|B6FE6601",
     "sourceGame": "rct2tt",
@@ -67,11 +69,13 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/FUTSKY30.DAT[0..39]"],
+    "images": [
+        "$RCT2:OBJDATA/FUTSKY30.DAT[0..39]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sandstone Walkway Corner",
-            "fr-FR": "Virage de la passerelle",
+            "fr-FR": "Coin de la passerelle",
             "de-DE": "Sandstein-Spazierweg-Ecke",
             "es-ES": "Esquina de pasaje de arenisca",
             "it-IT": "Curva del viale in arenaria",
